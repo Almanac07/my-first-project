@@ -1,3 +1,6 @@
-# my-first-project
-My first project on GitHub.
-I am learning GitHub step by step.
+## What I'm learning
+
+- GitHub repositories
+- Branches
+- Commits
+- Pull requests
